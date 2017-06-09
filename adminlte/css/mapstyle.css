@@ -1,0 +1,16 @@
+
+
+.leaflet-control-layers-expanded{
+    background-color: inherit;
+    color:inherit;
+    }
+
+.leaflet-control-layers-base label{
+float:left;
+background-color:inherit;
+}
+
+
+.leaflet-control-layers {
+    visibility: hidden !important;
+}
